@@ -1,0 +1,5 @@
+com\techbase\moviefinder\config\MovieFinderWebAppInitializer.class
+com\techbase\moviefinder\config\ApplicationContextConfig.class
+com\techbase\moviefinder\controller\RegisterController.class
+com\techbase\moviefinder\model\User.class
+com\techbase\moviefinder\controller\LoginController.class
